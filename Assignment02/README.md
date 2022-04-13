@@ -13,6 +13,25 @@ This pilot usability test will be conducted in a quiet office room located in my
 
 I, the moderator, and the user will sit adjacent to one another throughout the study. The user will recieve an introduction to the study purpose, and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
 
+### Survey Material Overview
+- Introduction
+- Informed Consent Form
+- Background Questions
+- Pre-Test Questionnaire
+- Tasks (4)
+- Post-Test Questionnaire
+- SUS Questionnaire
+- Production Satisfaction Card
+- Demographic Questions
+
+### Task Purpose and Overview
+| Task | Heuristic Tested | Description |
+|---|---|---|
+| 1. Find and Practice major triad chords | Recognition Rather than Recall, Match between System and Real World | User must navigate through the menu bar to a specified lesson, complete the lesson interaction, and identify where to check for solution. |
+| 2. Listen to and edit drum beats | Consistency and Standards, Flexibility and Efficiency of Use | User must remember where to navigate to a different lesson, play the demonstration, and complete the lesson interaction. |
+| 3. Create a second bar of drum beats and save work | User Control and Freedom, Error Prevention, Match between System and Real World | User must navigate to a new lesson, identify specified buttons and selections, and indentify how to save their work. |
+| 4. Find further information about synthesizers and contact form | Help and Documentation | User must find further information about a specified topic. They must also find where to contact the company for any questions or comments. |
+
 ## Links
 - [UT Survey](https://forms.gle/Ck9XXbAcndnVW3pp6)
 - [Pilot UT Video](https://youtu.be/nqTnQ-b_Rck?t=0)
