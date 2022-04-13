@@ -11,7 +11,7 @@ Usability Testing (UT) evaluates a product by testing respresentative users thro
 ## Methodology
 This pilot usability test will be conducted in a quiet office room located in my apartment. I will be using a Macbook Air laptop with a built-in camera to present the survey, capture participant actions, and record participant's comments/facial expressions. The study will be recorded via Zoom.
 
-I, the moderator, and the user will sit adjacent to one another throughout the study. The user will recieve an introduction to the study purpose, and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. 
+I, the moderator, and the user will sit adjacent to one another throughout the study. The user will recieve an introduction to the study purpose, and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
 
 ## Links
 - [UT Survey](https://forms.gle/Ck9XXbAcndnVW3pp6)
