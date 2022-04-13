@@ -41,12 +41,12 @@ I, the moderator, and the user will sit adjacent to one another throughout the s
     <img src="https://user-images.githubusercontent.com/61765607/163039065-4e383caa-a17a-48f9-8922-d54b238ba286.png" height="300px"/>
   </a>
 
-## Reflection
-The pilot usability test yielded several interesting results. The user was able to effectively and smoothly identify functions of the lesson interactions. The play button was recognizable, the toggle feature was familiar, and the beat selections were 
+## Results and Observations
+The pilot usability test yielded several interesting results. The user effectively completed all tasks, except for the step where they had to save their work. Some tasks took longer than others because some features were slightly confusing to the user. Below is an overview of each feature the user used in the tasks, and observations for how each task was executed.
 
 | Website Feature | Observations |
 |---|---|
-| Menu Bar | The user was able to navigate to different lessons effectively through the menu bar. However, the user seemed slightly confused about which icon to click when accessing the menu. This shows a minor issue in the website's consistency and standards: the menu icon and bar is designed differently than that of other websites. |
+| Menu Bar | The user was able to navigate to different lessons effectively through the menu bar. However, the user seemed slightly confused about which icon to click when accessing the menu. The user did not recognize that the menu icon represented the menu until much later in the test. This shows a minor issue in the website's consistency and standards: the menu icon and bar is designed differently than that of other websites. |
 | Play Demonstrations | When the user was instructed to "listen" to demonstrations, they effectively and smoothly identified the play buttons. These features were easily recognizeable and familiar to the user. |
 | Check for Correct Solution | User efficiently identified the "Check Solution" button. However, the correct solution automatically showed when user completed the interaction correctly. This might be a potential issue with user freedom if user wants to make an attempt before showing the right answer. |
 | Tempo Toggle Feature | The user effectively and efficiently navigated to the toggle feature when instructed to change the tempo. A potential issue here was that the help pop-up blocked the "Tempo" label. If user does not close out of the pop-up, the purpose of this toggle would be unclear to the user. |
@@ -54,3 +54,8 @@ The pilot usability test yielded several interesting results. The user was able 
 | Bar Selection | The user effectively identified where each bar was located in the interaction. However, the user did not know they could click and select a second bar option. |
 | Save Work | User was unable to save their work. They identified an "Export to Live" button, but thought that they would have to subscribe to Ableton in order to use this feature. |
 | Help and Documentation | User quickly and effectively navigated to further information and help. They easily found where to contact the company via email through the menu bar. |
+
+## Reflection
+Conducting the pilot usability test was more difficult than I had expected. Initially, I conducted this study with a different user. This first test I ran went poorly, because the user made me laugh very often and it was difficult to keep the user on track. I thus conducted a second test with a different user to avoid recall and participant bias. The second test (the test used for my current submission) went much more smoothly because I was able to direct the new user more effectively and neutrally. I noticed that this user had more experience with digital tools than the average population. If I were to conduct a UT study again, I would ensure that all participants had different levels of experience with tech and digital products. 
+
+Although experienced, the user still ran into some issues with the website (documented in "Results and Observations" section above). I was surprised to learn that the different menu-icon design would result in the user ignoring the icon and clicking elsewhere to access the menu. This helped me further understand the importance of consistency and standards. In the post-task feedback questions, the user seemed satisfied with the website as a whole. He noted that he really enjoyed how simple the product was compared to other music learning platforms. Overall, I feel that this pilot test ran smoothly. In future studies I will remember to remain neutral as a moderator and select participants of different exerience levels.
