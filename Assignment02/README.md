@@ -13,7 +13,7 @@ This pilot usability test will be conducted in a quiet office room located in my
 
 I, the moderator, and the user will sit adjacent to one another throughout the study. The user will recieve an introduction to the study purpose, and preliminary information about the test. The user will read and complete an informed consent form before completing the survey. I will guide the user throughout the study and encourage them to recite their thought process and comments while completing the survey. After completing specified tasks, the user will provide feedback about their experience. The survey will conclude with a demographic section with questions about the user; answers in this section will be kept confidential.
 
-### Survey Material Overview
+### Survey Material: Overview
 - Introduction
 - Informed Consent Form
 - Background Questions
@@ -24,7 +24,8 @@ I, the moderator, and the user will sit adjacent to one another throughout the s
 - Production Satisfaction Card
 - Demographic Questions
 
-### Task Purpose and Overview
+### Task Material: Purpose and Overview
+
 | Task | Heuristic Tested | Description |
 |---|---|---|
 | 1. Find and Practice major triad chords | Recognition Rather than Recall, Match between System and Real World | User must navigate through the menu bar to a specified lesson, complete the lesson interaction, and identify where to check for solution. |
@@ -41,3 +42,15 @@ I, the moderator, and the user will sit adjacent to one another throughout the s
   </a>
 
 ## Reflection
+The pilot usability test yielded several interesting results. The user was able to effectively and smoothly identify functions of the lesson interactions. The play button was recognizable, the toggle feature was familiar, and the beat selections were 
+
+| Website Feature | Observations |
+|---|---|
+| Menu Bar | The user was able to navigate to different lessons effectively through the menu bar. However, the user seemed slightly confused about which icon to click when accessing the menu. This shows a minor issue in the website's consistency and standards: the menu icon and bar is designed differently than that of other websites. |
+| Play Demonstrations | When the user was instructed to "listen" to demonstrations, they effectively and smoothly identified the play buttons. These features were easily recognizeable and familiar to the user. |
+| Check for Correct Solution | User efficiently identified the "Check Solution" button. However, the correct solution automatically showed when user completed the interaction correctly. This might be a potential issue with user freedom if user wants to make an attempt before showing the right answer. |
+| Tempo Toggle Feature | The user effectively and efficiently navigated to the toggle feature when instructed to change the tempo. A potential issue here was that the help pop-up blocked the "Tempo" label. If user does not close out of the pop-up, the purpose of this toggle would be unclear to the user. |
+| Beat and Sound Selection | Beat and sound buttons were familiar to the user. However, when selecting multiple consecutive beats, the user was not aware they could click and drag across the buttons to make multiple selections. |
+| Bar Selection | The user effectively identified where each bar was located in the interaction. However, the user did not know they could click and select a second bar option. |
+| Save Work | User was unable to save their work. They identified an "Export to Live" button, but thought that they would have to subscribe to Ableton in order to use this feature. |
+| Help and Documentation | User quickly and effectively navigated to further information and help. They easily found where to contact the company via email through the menu bar. |
