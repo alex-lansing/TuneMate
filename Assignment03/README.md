@@ -16,21 +16,24 @@ The current way to satisfy the need for esteem is providing users multiple ways 
 The current way to satisfy the cognitive need is providing users with the freedom to be creative and explore music topics. Many online music learning platforms allow users to explore different combinations of sounds, beats, and musical instruments. Other platforms also challenge users to learn new instruments or music techniques. This helps boost users' need for creativity, curiosity, and search for meaning. The Learning Music website is one example that presents effective solutions to this need. It invites users to create their own combinations of musical sounds, and challenges users to learn more about the creation of digital music.
 
 ### Limitations
-
-A current limitation of music learning platforms is the ability for musicians to play together. Learning to create music with other people becomes an issue when other musicians are not located nearby. There are many applications that allow people to connect virtually including FaceTime, Google Duo, and Zoom. But it is difficult for video-call platforms to replicate the true experience of musicians playing in a space all together.
-
+The current limitation of music learning platforms is the ability for musicians to play together. Learning to create music with other people becomes an issue when other musicians are not located nearby. There are many applications that allow people to connect virtually including FaceTime, Google Duo, and Zoom. But it is difficult for video-call platforms to replicate the true experience of musicians playing in a space all together. Music learning platforms could improve in this area by connecting nearby musicians, or by creating software that helps users practice with other instrumental accompaniment.
 
 ## Target User
 
-
-
 ### User Characteristics
+- Demographics: middle-aged male, interest in learning music
+- Preferences: some experience with music instrument(s), digital music technology, and/or music theory
+- Expertise: users do not need any particular level of expertise for this study
 
-### Location of User's Activity
+### Context of User's Activity
+- Online via digital music-learning platforms/software
+- At home, school, or other institution where users can learn instrumental music-making
+- Under the condition that users do not have access to instruments, they may prefer to learn music online through free and accessible websites. Users may want to learn music online if they are interested in digital music-making. They might also want to explore online information before purchasing an instrument. Under the condition that users do have access to instruments, they may prefer to learn music on their instrument through in-person lessons, or through online tutorials such as YouTube videos or informational websites. Users may want to learn music at home or school with an instrument because these places provide a more private space to practice, and also provide a learning environment if the user chooses to take in-person lessons.
+- It is important to note that users may want to learn music *both* online and in-person, because there are several digital music-learning applications that also provide help for instrumetal musicians.
 
 ### User's Execution of Activity
-
-
+- Through online platforms, users can learn music by completing interactive tasks. Interactive tasks would have users create combinations of music components to produce an overall song. These music learning applications often present a lesson plan that includes a wide range of topics. For digital music-making, these topics may include beat combinations, sound creation, rhythm, and chord progressions. For music theory, the topics might cover scales, chords, time signatures, and tempo. 
+- Through instruments, users can learn music through in-person tasks. This involves learning notes and how to play the instrument. Users can learn these tasks through an in-person teacher or through online tutorials. Learning to play the instrument involves learning the motor skills needed, reading notes on sheet music, and understanding rhythms and time signatures.
 
 ## Methodology
 
