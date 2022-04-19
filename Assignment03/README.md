@@ -42,6 +42,12 @@ The current limitation of music learning platforms is the ability for musicians 
 
 
 ## Observations
-
+Below are noteable responses that may be beneficial for future research or design strategies:
+| Video/Audio Time Mark | Heuristic Tested | Description |
+|---|---|---|
+| 1. Find and Practice major triad chords | Recognition Rather than Recall, Match between System and Real World | User must navigate through the menu bar to a specified lesson, complete the lesson interaction, and identify where to check for solution. |
+| 2. Listen to and edit drum beats | Consistency and Standards, Flexibility and Efficiency of Use | User must remember where to navigate to a different lesson, play the demonstration, and complete the lesson interaction. |
+| 3. Create a second bar of drum beats and save work | User Control and Freedom, Error Prevention, Match between System and Real World | User must navigate to a new lesson, identify specified buttons and selections, and indentify how to save their work. |
+| 4. Find further information about synthesizers and contact form | Help and Documentation | User must find further information about a specified topic. They must also find where to contact the company for any questions or comments. |
 
 ## Reflection
