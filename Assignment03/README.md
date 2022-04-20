@@ -53,9 +53,15 @@ The current limitation of music learning platforms is the ability for musicians 
 
 
 ## Links
+Field Study Script: https://docs.google.com/document/d/1oWSbMW4LiaZ6TnXaJjW2LK03VY7yq3AA27_OrPGgHHc/edit?usp=sharing
 
+Video Recoding: https://youtu.be/a-MjD8UmZ-A
 
-## Observations
+Video Transcript: https://docs.google.com/document/d/1q-zBnVS2AMCW3EHz9NFKV4eOOCuia_LicfUAh-HusvU/edit?usp=sharing
+
+Session Notes: https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing
+
+## Observations and Reflection
 Below are noteable responses that may provide valuable insight for future research or design strategies:
 | Video Time Mark, Topic| User Commentary | Notes |
 |---|---|---|
@@ -65,5 +71,3 @@ Below are noteable responses that may provide valuable insight for future resear
 | 26:10, Learning to Play Music with Others | "It's hard to get a good group of people together. So one thing that I supplement with, that I think is very helpful, is YouTube." | It seems difficult for users to learn how to play music with other people. Providing instrumental accompanyment appears to be an effective solution to this issue. Music learning applications could potentially include instrumental accompanyments or social media to help users practice music along with other people. |
 | 31:30, Playing Music with Others | "My favorite is to play with other people. Music is collaborative, it's a group thing... But it's not always available." | User desires to play with other people. He finds music a collaborative activity, but playing with others is not always an option. There is a need for applications that connect musicians so they have an opportunity to practice with one another. |
 | 37:39, Repetitive Activity | "You can never be too rhythmically accurate. So I like to play with a metronome." | User finds metronome useful when playing instrument, and repeatedly uses metronome. Including a metronome in a music learning application to help users with rhythm and timing may be a potential improvement on music learning platforms. |
-
-## Reflection
