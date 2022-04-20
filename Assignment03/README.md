@@ -35,7 +35,12 @@ The current limitation of music learning platforms is the ability for musicians 
 - Through online platforms, users can learn music by completing interactive tasks. Interactive tasks would have users create combinations of music components to produce an overall song. These music learning applications often present a lesson plan that includes a wide range of topics. For digital music-making, these topics may include beat combinations, sound creation, rhythm, and chord progressions. For music theory, the topics might cover scales, chords, time signatures, and tempo. 
 - Through instruments, users can learn music through in-person tasks. This involves learning notes and how to play the instrument. Users can learn these tasks through an in-person teacher or through online tutorials. Learning to play the instrument involves learning the motor skills needed, reading notes on sheet music, and understanding rhythms and time signatures.
 
-- The current user used in this study utilized a keyboard, the music learning app "I-Real-Pro", and the website YouTube to complete the activities in this study.
+- The user that participated in this current study utilized a keyboard (Casio PX560 88 Key Digital Stage Piano), the music learning app "I-Real-Pro", and YouTube to complete the activities in this study.
+
+<h4 align="center"> User's Musical Instrument: </h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61765607/164311053-926baf66-56f0-4c19-8b81-3388e8c303d7.png" height="190px"/>
+</p>
 
 <h4 align="center"> I-Real-Pro Application Preview: </h4>
 <p align="center">
@@ -48,6 +53,7 @@ The current limitation of music learning platforms is the ability for musicians 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61765607/164287181-a8b983d7-4a99-4f8b-9b99-a5ae581c5bc3.png" height="350px"/>
 </p>
+
 
 ## Methodology
 - The observation method utilized in this study will be participatory observation. As the researcher, I will observe the typical activities of the participant while they execute their music learning activities. The user will understand they are participating in a study, but the interview will be more discussion-based, rather than being fully led by the researcher.
