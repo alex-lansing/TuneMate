@@ -53,17 +53,21 @@ The current limitation of music learning platforms is the ability for musicians 
 
 
 ## Links
-Field Study Script: https://docs.google.com/document/d/1oWSbMW4LiaZ6TnXaJjW2LK03VY7yq3AA27_OrPGgHHc/edit?usp=sharing
+- [Field Study Script](https://docs.google.com/document/d/1oWSbMW4LiaZ6TnXaJjW2LK03VY7yq3AA27_OrPGgHHc/edit?usp=sharing)
 
-Video Recoding: https://youtu.be/a-MjD8UmZ-A
+- [Session Notes](https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing)
 
-Video Transcript: https://docs.google.com/document/d/1q-zBnVS2AMCW3EHz9NFKV4eOOCuia_LicfUAh-HusvU/edit?usp=sharing
+- [Video Transcript](https://docs.google.com/document/d/1q-zBnVS2AMCW3EHz9NFKV4eOOCuia_LicfUAh-HusvU/edit?usp=sharing)
 
-Session Notes: https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing
+- [Video Recoding](https://youtu.be/a-MjD8UmZ-A?t=0)
+
+  <a href="https://youtu.be/nqTnQ-b_Rck?t=0">
+    <img src="https://user-images.githubusercontent.com/61765607/164285496-9d0718c5-c533-4502-bfef-5ff8c5e8d17b.png" height="300px"/>
+  </a>
 
 ## Observations and Reflection
 Below are noteable responses that may provide valuable insight for future research or design strategies:
-| Video Time Mark, Topic| User Commentary | Notes |
+| Video Time Mark, Topic| User Commentary | Observations |
 |---|---|---|
 | 10:53, I-Real-Pro App | "It just eliminates me having to bring large stacks of music sheets to do a gig or something I'm gonna play at. So I just bring my phone and I know I can have every song I ever need." | Beneficial for users to have condensed, portable music information. Reducing the amount of books/paper/tools needed for music learning and music playing is desirable. |
 | 13:39, I-Real-Pro App| "If I could add something to it, it doesn't tell me the melody or if there's an actual expected baseline or pattern behind the melody. It just has the chords." | User is searching for further information when using the music learning app. It appears that the mobile app only provides a limited amount of information about chords, and does not provide an option for further information or help with songs. User a broad set of options, information, and freedom when using music learning applications. |
