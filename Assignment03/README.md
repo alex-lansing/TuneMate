@@ -35,6 +35,20 @@ The current limitation of music learning platforms is the ability for musicians 
 - Through online platforms, users can learn music by completing interactive tasks. Interactive tasks would have users create combinations of music components to produce an overall song. These music learning applications often present a lesson plan that includes a wide range of topics. For digital music-making, these topics may include beat combinations, sound creation, rhythm, and chord progressions. For music theory, the topics might cover scales, chords, time signatures, and tempo. 
 - Through instruments, users can learn music through in-person tasks. This involves learning notes and how to play the instrument. Users can learn these tasks through an in-person teacher or through online tutorials. Learning to play the instrument involves learning the motor skills needed, reading notes on sheet music, and understanding rhythms and time signatures.
 
+- The current user used in this study utilized a keyboard, the music learning app "I-Real-Pro", and the website YouTube to complete the activities in this study.
+
+<h4 align="center"> I-Real-Pro Application Preview: </h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61765607/164286574-c645682c-4dfe-43c4-83ae-e05fb4660041.png" height="350px"/>
+   <img src="https://user-images.githubusercontent.com/61765607/164286789-900b6d69-cf0a-4ffa-a1c8-3779a9f2f3a0.png" height="350px"/>
+    <img src="https://user-images.githubusercontent.com/61765607/164286949-07d3c462-3b13-45e0-b67d-8398160fc980.png" height="350px"/>
+</p>
+
+<h4 align="center"> YouTube Application Preview: </h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61765607/164287181-a8b983d7-4a99-4f8b-9b99-a5ae581c5bc3.png" height="350px"/>
+</p>
+
 ## Methodology
 - The observation method utilized in this study will be participatory observation. As the researcher, I will observe the typical activities of the participant while they execute their own music learning activities. The user will understand they are participating in a study, but the survey will be more discussion-based, rather than being fully led by the researcher.
 - The study will be conducted in the user's music practice space. This is a quiet apartment room with a piano, located in Westwood, Los Angeles, CA.
@@ -55,8 +69,6 @@ The current limitation of music learning platforms is the ability for musicians 
 ## Links
 - [Field Study Script](https://docs.google.com/document/d/1oWSbMW4LiaZ6TnXaJjW2LK03VY7yq3AA27_OrPGgHHc/edit?usp=sharing)
 
-- [Session Notes](https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing)
-
 - [Video Transcript](https://docs.google.com/document/d/1q-zBnVS2AMCW3EHz9NFKV4eOOCuia_LicfUAh-HusvU/edit?usp=sharing)
 
 - [Video Recoding](https://youtu.be/a-MjD8UmZ-A?t=0)
@@ -64,6 +76,8 @@ The current limitation of music learning platforms is the ability for musicians 
   <a href="https://youtu.be/nqTnQ-b_Rck?t=0">
     <img src="https://user-images.githubusercontent.com/61765607/164285496-9d0718c5-c533-4502-bfef-5ff8c5e8d17b.png" height="300px"/>
   </a>
+  
+- [In-Session Notes](https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing)
 
 ## Observations and Reflection
 Below are noteable responses that may provide valuable insight for future research or design strategies:
@@ -75,3 +89,7 @@ Below are noteable responses that may provide valuable insight for future resear
 | 26:10, Learning to Play Music with Others | "It's hard to get a good group of people together. So one thing that I supplement with, that I think is very helpful, is YouTube." | It seems difficult for users to learn how to play music with other people. Providing instrumental accompanyment appears to be an effective solution to this issue. Music learning applications could potentially include instrumental accompanyments or social media to help users practice music along with other people. |
 | 31:30, Playing Music with Others | "My favorite is to play with other people. Music is collaborative, it's a group thing... But it's not always available." | User desires to play with other people. He finds music a collaborative activity, but playing with others is not always an option. There is a need for applications that connect musicians so they have an opportunity to practice with one another. |
 | 37:39, Repetitive Activity | "You can never be too rhythmically accurate. So I like to play with a metronome." | User finds metronome useful when playing instrument, and repeatedly uses metronome. Including a metronome in a music learning application to help users with rhythm and timing may be a potential improvement on music learning platforms. |
+
+As the researcher, I thoroughly enjoyed the discussion-like style of the study. It was interesting to observe how a musician learns music through both instruments and digital applications. One interesting thing I noticed was that the I-Real-Pro application did not teach the musician the technical skills needed in piano playing. It appeared that it assisted in music learning by providing only the names of certain chords. Thus, a user of the I-Real-Pro application would need a higher level of experience with an instrument in order to use it. As for the YouTube application, it seemed there were more in-depth demonstrations of piano playing. Between these two applications that the user interacted with, I feel that YouTube would provide better music learning assistance for novice musicians. The current user seemed to have a high level of music experience, so these applications seemed effective in his music learning process. If I were to conduct this study again, I would analyze how musicians of less experience learn music. It is important for an application to provide lessons for users of all levels to ensure broad accessibility and usability.
+
+To further reflect on my experience, I feel that keeping the user on track with each activity went smoothly. At first, this seemed difficult because I would love to watch the user play piano for hours on end. But the user followed instructions very well and I believe we wrapped up our session in a timely manner. If I were to run a Contextual Inquiry study again, I would send out a survey before the study with more in-depth questions. This would allow for a more productive session when I meet with the user.
