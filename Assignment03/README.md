@@ -56,12 +56,14 @@ The current limitation of music learning platforms is the ability for musicians 
 
 
 ## Observations
-Below are noteable responses that may be beneficial for future research or design strategies:
-| Video/Audio Time Mark | Heuristic Tested | Description |
+Below are noteable responses that may provide valuable insight for future research or design strategies:
+| Video Time Mark, Topic| User Commentary | Notes |
 |---|---|---|
-| 1. Find and Practice major triad chords | Recognition Rather than Recall, Match between System and Real World | User must navigate through the menu bar to a specified lesson, complete the lesson interaction, and identify where to check for solution. |
-| 2. Listen to and edit drum beats | Consistency and Standards, Flexibility and Efficiency of Use | User must remember where to navigate to a different lesson, play the demonstration, and complete the lesson interaction. |
-| 3. Create a second bar of drum beats and save work | User Control and Freedom, Error Prevention, Match between System and Real World | User must navigate to a new lesson, identify specified buttons and selections, and indentify how to save their work. |
-| 4. Find further information about synthesizers and contact form | Help and Documentation | User must find further information about a specified topic. They must also find where to contact the company for any questions or comments. |
+| 10:53, I-Real-Pro App | "It just eliminates me having to bring large stacks of music sheets to do a gig or something I'm gonna play at. So I just bring my phone and I know I can have every song I ever need." | Beneficial for users to have condensed, portable music information. Reducing the amount of books/paper/tools needed for music learning and music playing is desirable. |
+| 13:39, I-Real-Pro App| "If I could add something to it, it doesn't tell me the melody or if there's an actual expected baseline or pattern behind the melody. It just has the chords." | User is searching for further information when using the music learning app. It appears that the mobile app only provides a limited amount of information about chords, and does not provide an option for further information or help with songs. User a broad set of options, information, and freedom when using music learning applications. |
+| 18:45, Personal Learning Techniques | "I do a lot of just drills and exercises... If there was a way to virtually make that easier, that would be really great because it's not very fun, but something you need to do. | Basic mobility techniques when using instruments is commonly practiced without digital products. Users might seek for digital tools, apps, or websites that may help strengthen these techniques. Including an activity in an application that helps music learners pracice basic techniques appears desirable by current user.|
+| 26:10, Learning to Play Music with Others | "It's hard to get a good group of people together. So one thing that I supplement with, that I think is very helpful, is YouTube." | It seems difficult for users to learn how to play music with other people. Providing instrumental accompanyment appears to be an effective solution to this issue. Music learning applications could potentially include instrumental accompanyments or social media to help users practice music along with other people. |
+| 31:30, Playing Music with Others | "My favorite is to play with other people. Music is collaborative, it's a group thing... But it's not always available." | User desires to play with other people. He finds music a collaborative activity, but playing with others is not always an option. There is a need for applications that connect musicians so they have an opportunity to practice with one another. |
+| 37:39, Repetitive Activity | "You can never be too rhythmically accurate. So I like to play with a metronome." | User finds metronome useful when playing instrument, and repeatedly uses metronome. Including a metronome in a music learning application to help users with rhythm and timing may be a potential improvement on music learning platforms. |
 
 ## Reflection
