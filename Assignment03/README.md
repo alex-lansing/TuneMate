@@ -73,7 +73,7 @@ The current limitation of music learning platforms is the ability for musicians 
 
 - [Video Recoding](https://youtu.be/a-MjD8UmZ-A?t=0)
 
-  <a href="https://youtu.be/nqTnQ-b_Rck?t=0">
+  <a href="https://youtu.be/a-MjD8UmZ-A?t=0">
     <img src="https://user-images.githubusercontent.com/61765607/164285496-9d0718c5-c533-4502-bfef-5ff8c5e8d17b.png" height="300px"/>
   </a>
   
