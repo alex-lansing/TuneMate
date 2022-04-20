@@ -82,7 +82,7 @@ The current limitation of music learning platforms is the ability for musicians 
   
 - [In-Session Notes](https://docs.google.com/document/d/1BLVA9qWrEgOs_p4-zfV06wZbTrBwwGBSY2h5cEc_YsI/edit?usp=sharing)
 
-- [Supplemental Video](https://photos.app.goo.gl/SWapjC4HVDccyugx7): Demonstrates user's activity on mobile app "I-Real-Pro" at time stamp (12:33) in recorded video.
+- [Supplemental Video](https://photos.app.goo.gl/SWapjC4HVDccyugx7) : Demonstrates user's activity on mobile app "I-Real-Pro" at time stamp (12:33) in recorded video.
 
 ## Observations and Reflection
 Below are noteable responses that may provide valuable insight for future research or design strategies:
