@@ -50,11 +50,11 @@ The current limitation of music learning platforms is the ability for musicians 
 </p>
 
 ## Methodology
-- The observation method utilized in this study will be participatory observation. As the researcher, I will observe the typical activities of the participant while they execute their own music learning activities. The user will understand they are participating in a study, but the survey will be more discussion-based, rather than being fully led by the researcher.
+- The observation method utilized in this study will be participatory observation. As the researcher, I will observe the typical activities of the participant while they execute their music learning activities. The user will understand they are participating in a study, but the interview will be more discussion-based, rather than being fully led by the researcher.
 - The study will be conducted in the user's music practice space. This is a quiet apartment room with a piano, located in Westwood, Los Angeles, CA.
 - There will be four main activities observed regarding the user's interactions with both an instrument and digital tools for music learning. Details are noted below in the Interview Overview section.
-- The method of interaction in this study will involve participatory and overt interaction, where the user will demonstrate how they learn music in their own way, and will be aware that I am conducting a research study. I will sit adjacent to the user as they complete the study.
-- Data will be collected by video recoding via Zoom. I will also take brief notes on observations throughout the session in my Notes app. An audio transcript will be downloaded after the session for post-study reference.
+- The method of interaction in this study will involve participatory and overt interaction, where the user will demonstrate how they learn music in their own way, and will be aware that I am conducting a research study. I will sit adjacent to the user and observe as they complete the study.
+- Data will be collected by video recoding via Zoom. I will also take brief notes on observations throughout the session in my Notes app. An audio transcript will be downloaded after the session for post-study reference. Mobile app use will also be recorded if user decides to use phone applications.
 
 ### Interview Overview
 1. Introduction: Provide user with information about the study and brief details about what they will be doing
