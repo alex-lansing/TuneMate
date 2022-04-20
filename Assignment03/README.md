@@ -36,6 +36,20 @@ The current limitation of music learning platforms is the ability for musicians 
 - Through instruments, users can learn music through in-person tasks. This involves learning notes and how to play the instrument. Users can learn these tasks through an in-person teacher or through online tutorials. Learning to play the instrument involves learning the motor skills needed, reading notes on sheet music, and understanding rhythms and time signatures.
 
 ## Methodology
+- The observation method utilized in this study will be participatory observation. As the researcher, I will observe the typical activities of the participant while they execute their own music learning activities. The user will understand they are participating in a study, but the survey will be more discussion-based, rather than being fully led by the researcher.
+- The study will be conducted in the user's music practice space. This is a quiet apartment room with a piano, located in Westwood, Los Angeles, CA.
+
+### Overview of Study Survey
+1. Introduction: Provide user with information about the study and brief details about what they will be doing
+2. Background: Questions about user and user's experience with music and music learning. Further questions about tools and techniques used by user during music learning.
+3. Activities: Four open-ended activities for user to demonstrate different ways they learn music
+    - Demonstrate use of mobile applications to help with learning music
+    - Demonstrate use of online websites to help with learning music
+    - Demonstrate learning music without online programs
+    - Demonstrate learning how to make music with other musicians or other instrumental accompaniment
+5. Post-Activity Questions: Problems experienced with music learning, more details about music learning methods. Questions ask user about issues they have experienced with music learning and methods they have used to better their experience.
+6. Wrap-Up: Further open-ended questions about user's ideas for better music learning products.
+7. Closing: Thank the user for participating in the study.
 
 
 ## Links
