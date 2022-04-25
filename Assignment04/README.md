@@ -19,5 +19,6 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 | Identify where to begin in a music lesson | Accomidate music learners of all experience levels, so they can begin lessons according to their own level of expertise. | **Quiz Feature**: Present a quiz at the beginning of the application that will gage what users know and what they have left to learn. At the end of the quiz, suggest which lesson users should start on. | 
 | Find and connect with other local musicians/music learners | Allow users to learn how to make music alongside other musicians. Instrumental accompanyment is a vital part of music learning if users desire to play with other people. | **Social Connection**: Invite users to create a profile and post online to connect with other musicians. Provide joinable group chats for specific cities to ensure users can find other musicians that are nearby. |
 
+## Persona and Empathy Map
 
 
