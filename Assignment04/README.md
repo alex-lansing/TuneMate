@@ -12,4 +12,4 @@ According to [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/
 4. How can the user achieve their goals on the site? : Identify what will satisfy users and what will frustrate users in a product to eliminate potential barriers in the design
 
 ## Design Features
-
+My previous research has helped 
