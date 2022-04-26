@@ -44,6 +44,7 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 ### Dan's Scenario
 
 #### Context
+As a father with a full-time job, Dan has limited free time. However, he also has a passion for learning. In all the spare time he has, Dan enjoys picking up new hobbies to do himself or with his family. Dan recently decided he wants to play piano. He used to take piano lessons as a child, but he wants to refresh his memory and learn more in-depth skills. Dan has researched online for piano lessons, but many require in-person sessions or come with subscriptions for lengthy courses. He does not have enough time to start an online piano course from scratch, nor does he have time for weekly in-person lessons. He wants a music learning method that can start at his current level of experience. Futher, he needs a platform that provides an overview of lessons so he can efficiently choose what to learn at his own time and pace. 
 
 #### Use Cases
 
@@ -57,4 +58,7 @@ As a solo guitarist, Jacob loves to jam out on his guitar in between grad school
 
 #### Use Cases
 Jacob creates a profile on the music application. Through the application, Jacob navigates to the menu where he finds a section called "Practice with Others". In this section, Jacob finds joinable group chat icons for different areas around Los Angeles County. These group chats include musicians of all different instrument experience. As Jacob scrolls down from the joinable group chats, he finds a map that features posts made recently near him. He searches for postings near his location in LA. Three people have posted in the last month about needing a guitarist to practice playing with. Jacob clicks on their profiles and sends them a private message expressing his interest in meeting up.
+
+#### Jacob's Journey Map
+
 
