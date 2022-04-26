@@ -20,5 +20,10 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 | Find and connect with other local musicians/music learners | Allow users to learn how to make music alongside other musicians. Instrumental accompanyment is a vital part of music learning if users desire to play with other people. | **Social Connection**: Invite users to create a profile and post online to connect with other musicians. Provide joinable group chats for specific cities to ensure users can find other musicians that are nearby. |
 
 ## Persona and Empathy Map
+### Dan - The Hobbyist
+![image](https://user-images.githubusercontent.com/61765607/165348381-a6011b33-f372-4d34-8f93-1272c5b18104.png)
 
+### Jacob - The Social Guitarist
+![image](https://user-images.githubusercontent.com/61765607/165348642-076b0209-642c-433f-a4db-39ac873a3840.png)
 
+##
