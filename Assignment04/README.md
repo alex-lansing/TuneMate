@@ -16,7 +16,7 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 
 | Task | Purpose | Design Feature |
 |---|---|---|
-| Identify where to begin in a music lesson | Accomidate music learners of all experience levels, so they can begin lessons according to their own level of expertise. | **Quiz Feature**: Present a quiz at the beginning of the application that will gage what users know and what they have left to learn. At the end of the quiz, suggest which lesson users should start on. | 
+| Identify where to begin in a music lesson | Accomidate music learners of all experience levels, so they can begin lessons according to their own level of expertise. | **Placement Quiz**: Present a quiz at the beginning of the application that will gage what users know and what they have left to learn. At the end of the quiz, suggest which lesson users should start on. | 
 | Find and connect with other local musicians/music learners | Allow users to learn how to make music alongside other musicians. Instrumental accompanyment is a vital part of music learning if users desire to play with other people. | **Social Connection**: Invite users to create a profile and post online to connect with other musicians. Provide joinable group chats for specific cities to ensure users can find other musicians that are nearby. |
 
 ## Personas and Empathy Maps
@@ -46,7 +46,12 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 #### Context
 As a father with a full-time job, Dan has limited free time. However, he also has a passion for learning. In all the spare time he has, Dan enjoys picking up new hobbies to do himself or with his family. Dan recently decided he wants to play piano. He used to take piano lessons as a child, but he wants to refresh his memory and learn more in-depth skills. Dan has researched online for piano lessons, but many require in-person sessions or come with subscriptions for lengthy courses. He does not have enough time to start an online piano course from scratch, nor does he have time for weekly in-person lessons. He wants a music learning method that can start at his current level of experience. Futher, he needs a platform that provides an overview of lessons so he can efficiently choose what to learn at his own time and pace. 
 
+#### Design Feature: Placement Quiz
+> *The Placement Quiz feature will allow users to start lessons according to their level of expertise. This feature will be offered to users upon logging in to the application. Quiz questions will ask users what they are trying to learn and specific questions about their past experience. After completion of the quiz, users will be provided with a suggestion of what chapter and lesson they should start on in the application. Note: This quiz will be optional for users. If users choose to exit out of the quiz, they can always complete it later. *
+
 #### Use Cases
+
+
 
 ### Jacob's Scenario
 
