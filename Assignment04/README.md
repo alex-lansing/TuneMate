@@ -53,7 +53,8 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 As a solo guitarist, Jacob loves to jam out on his guitar in between grad school projects. Jacob practices about 5-8 hours weekly in his music room, and on weekends he enjoys performing at local bars and coffee shops. He performs by himself, but wants to start performing with other people. Although he has only learned to play guitar solo, Jacob now seeks to learn how to play with instrumental accompanyment. Jacob has looked for other local musicians in Los Angeles through social media platforms including Instagram and Facebook. However, he finds it difficult to connect with musicians that are at his skill level, are nearby, and have time to practice.
 
 #### Design Feature: Social Connection
-The Social Connection feature will help connect musicians that are nearby 
+> *The Social Connection feature will help connect musicians nearby by allowing users to create a profile and make postings for seeking accompanyment. This feature will include group chats that can be categorized by area to ensure that musicians find partners in close proximity.*
 
 #### Use Cases
-Jacob 
+Jacob creates a profile on the music application. Through the application, Jacob navigates to the menu where he finds a section called "Practice with Others". In this section, Jacob finds joinable group chat icons for different areas around Los Angeles County. These group chats include musicians of all different instrument experience. As Jacob scrolls down from the joinable group chats, he finds a map that features posts made recently near him. He searches for postings near his location in LA. Three people have posted in the last month about needing a guitarist to practice playing with. Jacob clicks on their profiles and sends them a private message expressing his interest in meeting up.
+
