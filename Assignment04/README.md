@@ -24,10 +24,13 @@ Based on my previous research, there are 2 main tasks that demonstrate the envis
 ![image](https://user-images.githubusercontent.com/61765607/165348381-a6011b33-f372-4d34-8f93-1272c5b18104.png)
 
 ### Empathy Map
+![image](https://user-images.githubusercontent.com/61765607/165370587-9cfd5907-7209-41e6-ac9a-de0bad2dd53f.png)
 
 ### Jacob - The Social Guitarist
 ![image](https://user-images.githubusercontent.com/61765607/165348642-076b0209-642c-433f-a4db-39ac873a3840.png)
 
 ### Empathy Map
+![image](https://user-images.githubusercontent.com/61765607/165370791-5c9276d7-9649-450e-bd4c-5ef25a38bcff.png)
+
 
 ## Scenarios & Journey Map
