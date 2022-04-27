@@ -69,7 +69,8 @@ Jacob creates a profile on the music application. Through the application, Jacob
 
 <h3 align="center"> Jacob's Journey Map </h3>
 
-![image](https://user-images.githubusercontent.com/61765607/165602543-6f96bfa6-ca5f-44e9-a123-bf333e4b49ff.png)
+![image](https://user-images.githubusercontent.com/61765607/165631615-7e671b2c-b0db-42ec-9e9f-832681a82177.png)
+
 
 
 
