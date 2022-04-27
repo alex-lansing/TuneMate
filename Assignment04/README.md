@@ -52,8 +52,9 @@ As a father with a full-time job, Dan has limited free time. However, he also ha
 #### Use Cases
 Dan finds the login page to the music learning application, and creates a new account. Upon signing in, the "Placement Quiz" pops up on screen, informing him he can find out where to begin lessons according to their skill level. Dan decicides to proceed with the quiz and clicks the start button. The quiz questions start by asking what Dan wants to learn. Dan selects piano. Then Dan completes a series of questions about his past experience. With his completion of the quiz, Dan is informed that he should start at Lesson 3 since he's had some prior experience with piano basics. He selects the "Take me there!" icon, and the application brings him to the beginning of Lesson 3, where Dan begins his lessons. In the case that Dan wants to refresh his memory on basic concepts, Lesson 1-2 (and all lessons) are accessible to him at any time through the menu bar.
 
-#### Dan's Journey Map
+<h3 align="center"> Dan's Journey Map </h3>
 
+![image](https://user-images.githubusercontent.com/61765607/165602440-81b9962a-65f5-414f-a4dc-addb1686af94.png)
 
 ### Jacob's Scenario
 
@@ -66,6 +67,9 @@ As a solo guitarist, Jacob loves to jam out on his guitar in between grad school
 #### Use Cases
 Jacob creates a profile on the music application. Through the application, Jacob navigates to the menu where he finds a section called "Practice with Others". In this section, Jacob finds joinable group chat icons for different areas around Los Angeles County. These group chats include musicians of all different instrument experience. As Jacob scrolls down from the joinable group chats, he finds a map that features posts made recently near him. He searches for postings near his location in LA. Three people have posted in the last month about needing a guitarist to practice playing with. Jacob clicks on their profiles and sends them a private message expressing his interest in meeting up.
 
-#### Jacob's Journey Map
+<h3 align="center"> Jacob's Journey Map </h3>
+
+![image](https://user-images.githubusercontent.com/61765607/165602543-6f96bfa6-ca5f-44e9-a123-bf333e4b49ff.png)
+
 
 
