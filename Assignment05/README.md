@@ -22,9 +22,11 @@ The following material demonstrates the Wireframes, Wireflow, and Wireflow Testi
 ![image](https://user-images.githubusercontent.com/61765607/167272022-a0334d55-c001-40a7-b69f-48063912e1d1.png)
 
 ## Usage Scenario 1
+#### The user has some prior experience in piano, and wants to learn music efficiently. They take the placement quiz to see where to begin in the lesson plan. This allows the user to quickly start learning instead of starting from the basics. In case the user wants to learn more basic topics, they can easily navigate through the menu to view all other lesson topics. The user is satisfied by the easy-to-navigate layout and their ability to learn/skip through topics efficiently.
 ![image](https://user-images.githubusercontent.com/61765607/167271866-d4eb28d2-04a9-408d-bd6d-4b49884e6268.png)
 
 ## Usage Scenario 2
+#### The user is an experienced guitarist, and wants to practice playing with others. They utilize the social feature in the application to find musicians that are nearby. The social feature provides group chats of different areas so the user can find musicians in their specific area. The user navigates to their area's group chat and comments on a nearby musician's post, and also messages them directly to initiate a private conversation. The user is able to arrange a time and place to meet with the other musician. They are satisfied that they can now start practicing music with other people.
 ![image](https://user-images.githubusercontent.com/61765607/167271846-85051d8a-69a5-48df-a1fe-d2cd210797b1.png)
 
 ## Wireflow Testing
