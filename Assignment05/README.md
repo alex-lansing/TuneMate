@@ -46,5 +46,5 @@ The following material demonstrates the Wireframes, Wireflow, and Wireflow Testi
 
 #### Interaction 3 Task: Log In, Re-Take Placement Quiz
 #### Interaction 4 Task: Navigate to TuneMate Connect, Join a Group Chat, Comment on a Post, Direct Message a User
-![image](https://user-images.githubusercontent.com/61765607/167275189-902bec62-9926-47a7-b532-8dfd80a5e09f.png)
+![image](https://user-images.githubusercontent.com/61765607/167275312-b226a41c-7e97-41a8-a4b6-c8940387993c.png)
 
