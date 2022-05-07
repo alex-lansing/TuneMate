@@ -10,7 +10,16 @@ From these research studies, I decided to focus on improving the main issues fou
 
 These improvements inspired two User Scenarios. The first scenario involved a busy hobbyist, who had some prior music experience, and wanted to learn more about music. Due to their lack of time, the hobbyist utilized a "Placement Quiz" feature to help them efficiently begin lessons based on their prior experience. The hobbyist was also able to navigate efficiently to other lessons through the Menu when they wanted to skip around lesson topics. The second scenario involved a social guitarist, who wanted to connect with other musicians nearby to practice playing with others. This guitarist utilized the "Social Connection" feature in the application to find local musicians that wanted to practice together. The guitarist searched through a local group chat, and reached out to another musician via direct message / commenting. The users were able to communicate through the application and arrange for a time to practice together.
 
-With research and user scenarios complete, this current project now focuses on developing a low-fidelity prototype that integrates each feature noted to improve the music-learning application. The purpose of low-fidelity prototyping is to test the functionality and flow of application features utilized in envisioned tasks.
+With research and user scenarios complete, this current project now focuses on developing a low-fidelity prototype that integrates each feature noted to improve the music-learning application. The purpose of low-fidelity prototyping is to test the functionality and flow of application features utilized in envisioned tasks. The tasks supported by this prototype are as follows:
+
+### Tasks
+1. Complete the Placement Quiz to find out which Lesson to start on
+2. Navigate to different Lessons
+3. Check lesson progress
+4. Find other musicians through a Group Chat
+5. Create a Post in the Group Chat
+6. Comment on another user's post
+7. Direct Message another user
 
 ## Low-Fidelity Prototype
 The following material demonstrates the Wireframes, Wireflow, and Wireflow Testing of a low-fidelity prototype for my music-learning application idea. Further, two usage scenarios are provided with wireframes and flow of the two tasks described in my user scenarios.
