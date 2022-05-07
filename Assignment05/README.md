@@ -63,3 +63,5 @@ To reflect on my Wireflow Testing, it was interesting to observe how a person in
 | Quiz: Exit "X" | The "X" doesn't seem necessary since there are already buttons to go to the specified Lesson or back to Lesson 1. | Remove an exit option from the quiz, thus only providing the users with two lesson start options. |
 | Profile Page | I don't know how to edit my profile. | Include an "Edit Profile" button on the Profile page. |
 | User Progress | What happens when I select a Lesson under "Completed Lessons"? | Need a wireframe that shows the design of lessons once they are completed. Perhaps create a "Lesson Complete" page that also displays a "Start Over" option for the user if they wish to do the lesson again. |
+
+I plan to implement these improvements in the next step of my design process. Overall, The Wireflow Testing provided great insights for my Low-Fidelity prototype, and gave me a new perspective on the user's interaction with my layout.
