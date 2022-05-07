@@ -39,4 +39,12 @@ The following material demonstrates the Wireframes, Wireflow, and Wireflow Testi
 ![image](https://user-images.githubusercontent.com/61765607/167271846-85051d8a-69a5-48df-a1fe-d2cd210797b1.png)
 
 ## Wireflow Testing
+
+#### Interaction 1 Task: Create Account, Complete Quiz, and Complete One Lesson
+#### Interaction 2 Task: Log In, View User Progress, View User Profile
 ![image](https://user-images.githubusercontent.com/61765607/167275019-a9d9168a-3a06-467b-8012-c4f7b757f6b1.png)
+
+#### Interaction 3 Task: Log In, Re-Take Placement Quiz
+#### Interaction 4 Task: Navigate to TuneMate Connect, Join a Group Chat, Comment on a Post, Direct Message a User
+![image](https://user-images.githubusercontent.com/61765607/167275189-902bec62-9926-47a7-b532-8dfd80a5e09f.png)
+
