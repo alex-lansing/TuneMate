@@ -39,4 +39,4 @@ The following material demonstrates the Wireframes, Wireflow, and Wireflow Testi
 ![image](https://user-images.githubusercontent.com/61765607/167271846-85051d8a-69a5-48df-a1fe-d2cd210797b1.png)
 
 ## Wireflow Testing
-![image](https://user-images.githubusercontent.com/61765607/167272747-c74cc71c-a192-4c49-9c37-ff478c3f930e.png)
+![image](https://user-images.githubusercontent.com/61765607/167275019-a9d9168a-3a06-467b-8012-c4f7b757f6b1.png)
