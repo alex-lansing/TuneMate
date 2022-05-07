@@ -53,4 +53,6 @@ The following material demonstrates the Wireframes, Wireflow, and Wireflow Testi
 
 
 ## Reflection
+Low-fidelity prototyping is much more challenging than I expected. There are so many components of an application that I, a user, take for granted. In order to gain inspiration for my prototype, I did a lot of initial research on layouts of learning applications and social media apps. Interestingly, I came across an app called [Musicate](https://musicate.app/), which included a very short "Placement Quiz" that I used for inspiration for my project. Musicate's quiz was much shorter than I would've liked, so I made sure to include more details in my project's quiz. Further, the Musicate app was slightly disorganized, so I chose a different layout for my design. This app was a great reference, but I definitely derived most inspiration from my User Research and Contextual Inquiry.
 
+To reflect on my Wireflow Testing, it was interesting to observe how a person interacts with something I designed myself. I aimed to make as detailed of Wireframes as possible to avoid any possible confusion with my design's functionality. However, the user still found some holes in my design. Below is an overview of what issues were found and what improvements should be made:
