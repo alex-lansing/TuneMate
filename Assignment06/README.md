@@ -53,8 +53,21 @@ As I continued to look at my design, I felt it needed a more clear grouping of e
 ### Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
 
+### Decision Process and Design Details
+I tested several different color variations. Six are shown above. To help me decide the color schemes, I used [Adobe Color](https://color.adobe.com/create/color-wheel) for color combinations and [Visme](https://visme.co/blog/website-color-schemes/) for further inspiration. I tested Analagous, Complementary, Monochromatic, and Primary color combinations. Different shades and hues were used to color the individual components of the design. I researched more about color psychology, specifically for [color in branding](https://www.ignytebrands.com/the-psychology-of-color-in-branding/#3), and found that blue and purple hues are what I would like to use for my music learning app. Blue instills a sense of dependability, logic, serenity, and security. Whereas purple instills a sense of wisdom, imagination, and sophistication. I decided to test more variations of the monochromatic indigo design in the bottom left frame shown above.
+
 ### Monochromatic Indigo Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519493-647f1fee-d9c1-429f-8f1b-9c08af61d575.png)
+
+### Decision Process and Design Details
+To further test the color variations, I used a [Preference Test](https://usabilityhub.com/guides/preference-testing) to see which design was most appealing to users. The feedback I got from this test is as follows:
+
+| Screen 1 | Screen 2 | Screen 3 |
+|---|---|---|
+| "The title looks a little too dark" | "It's too purple for me" | "The icons at the bottom are hard to see" |
+| "I can't see the button labels very well" | "The menu icon is hard to see" | |
+
+Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below.
 
 ### Light Mode and Dark Mode
 ![image](https://user-images.githubusercontent.com/61765607/167519593-fb40fa33-d218-4429-9be1-bcbeaf774f8d.png)
