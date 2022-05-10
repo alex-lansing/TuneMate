@@ -102,13 +102,7 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 ## Accessibility Test
 To run a color-contrast check of my final design, I utilized the Spark plugin in Figma. The test results are shown below:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167720586-85c9b5f7-4e1a-41d8-86f8-bd2386360b6b.png" height="350px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167720643-1c4c3613-f723-48fd-a44d-878421608a44.png" height="350px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167721803-4a3c99fc-ae07-4144-ae1d-35757c1a2674.png" height="350px"/>
-</p>
-
-
+![image](https://user-images.githubusercontent.com/61765607/167722564-e307eb48-e41f-4eea-87fa-d8f0058c7c80.png)
 
 
 ## Design page Link
