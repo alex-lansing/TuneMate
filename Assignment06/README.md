@@ -4,7 +4,6 @@ Alexandra Lansing | DH110 | Spring 2022
 
 ## Project Description
 
-## Digitized Wireflow
 
 ## Graphical Interface Design Variation
 
