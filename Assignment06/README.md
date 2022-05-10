@@ -106,4 +106,12 @@ To run a color-contrast check of my final design, I utilized the Spark plugin in
 ![image](https://user-images.githubusercontent.com/61765607/167722564-e307eb48-e41f-4eea-87fa-d8f0058c7c80.png)
 
 
-## Design page Link
+## Design System Documentation
+
+### Typography
+
+### Color Scheme
+
+### Layout
+
+### Additional Details
