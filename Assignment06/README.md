@@ -79,15 +79,14 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 - [Test Link](https://app.usabilityhub.com/do/809e883c8d25/1156)
 - [Result Link](https://app.usabilityhub.com/tests/809e883c8d25/results/428fc872da2f)
 
-<h4 align="center"> "What is this app used for?" Response Word Cloud </h4>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167694035-5c864da8-4e7b-4fc5-81e9-46ee1e7aeff3.png" height="300px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167695143-f59d0963-2f37-4798-9689-66f6935f8ad4.png" height="350px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167695154-4236f0ae-e25a-4b99-90ca-5a89afd0bbb7.png" height="350px"/>
 </p>
 
-<h4 align="center"> "What words or sentences fo you recall?" Response Word Cloud </h4>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167694313-32293599-b874-4c59-b52b-7026118ea143.png" height="300px"/>
-</p>
+### Picking-Adjectives Test Results
+- [Test Link]
+
 
 
 
