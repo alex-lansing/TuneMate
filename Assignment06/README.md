@@ -86,6 +86,7 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 
 ### Picking-Adjectives Test Results
 - [Test Link](https://forms.gle/N1bJCiBRc2SVrBck7)
+- [Results CSV](https://docs.google.com/spreadsheets/d/1g1CKhkWu_7A0O1mrV_O0AlGM9rhEp_qRgdgSgpGE7Eg/edit?usp=sharing)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61765607/167696281-c2dd2b66-a278-4597-b0c5-14abeb366857.png" height="260px", width="800px"/>
