@@ -98,8 +98,7 @@ Based on results for the "What is this app used for" question, the top impressio
 </p>
 
 ### Observations
-Based on these results, it appeared that most users felt the app looked calm, 
-
+Based on these results, it appeared that most users felt the app looked calm, simple, fresh, and useful. Many users also felt that the app apeared familiar and professional. It was encouraging to see these results, because I hoped to make the design as simple as possible but still appear useful and professional. A few users also said the app appeared to look cheap. I reached out to some design friends and they noted that the bottom-bar icons devalue the overall look. As I continue my design process, I will investigate other icon options and spend more time choosing icons that look sophisticated and fit the design well.
 
 ## Accessibility Test
 To run a color-contrast check of my final design, I utilized the Spark plugin in Figma. The test results are shown below:
