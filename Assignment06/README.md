@@ -84,6 +84,8 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
   <img src="https://user-images.githubusercontent.com/61765607/167695154-4236f0ae-e25a-4b99-90ca-5a89afd0bbb7.png" height="350px"/>
 </p>
 
+### Observations
+
 ### Picking-Adjectives Test Results
 - [Test Link](https://forms.gle/N1bJCiBRc2SVrBck7)
 - [Results CSV](https://docs.google.com/spreadsheets/d/1g1CKhkWu_7A0O1mrV_O0AlGM9rhEp_qRgdgSgpGE7Eg/edit?usp=sharing)
@@ -94,11 +96,10 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
   <img src="https://user-images.githubusercontent.com/61765607/167696392-e4bc023a-18fa-4ae3-b13a-31472c1b48d6.png" height="260px", width="800px"/>
 </p>
 
-
-
-
+### Observations
 
 
 ## Accessibility Test
+To run a color-contrast check of my final design, I utilized the Spark plugin in Figma. The test results are shown below:
 
 ## Design page Link
