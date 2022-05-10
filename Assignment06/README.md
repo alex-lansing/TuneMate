@@ -85,6 +85,7 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 </p>
 
 ### Observations
+Based on results for the "What is this app used for" question, the top impressions users noted were music, learning, tuning, and reading. It was interesting to see that many users believed the app's purpose was for tuning instruments. I think that this was a common answer because the app name is "TuneMate". Perhaps I should consider exploring other name options for the application, because the word "Tune" might be misleading for the app's purpose. However, "music" and "learning" were the most popular answers, which tells me that the main purpose of the app was conveyed to most users. Based on results for the word/sentence recall question, most users recalled rhythm, reading, fundamentals, and basic. These results demonstrated that the overall lesson names really stood out to users.
 
 ### Picking-Adjectives Test Results
 - [Test Link](https://forms.gle/N1bJCiBRc2SVrBck7)
@@ -97,6 +98,7 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 </p>
 
 ### Observations
+Based on these results, it appeared that most users felt the app looked calm, 
 
 
 ## Accessibility Test
