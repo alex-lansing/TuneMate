@@ -8,13 +8,13 @@ Alexandra Lansing | DH110 | Spring 2022
 
 ## Graphical Interface Design Variation
 
-### Design and GUI Component Layout
+## Design and GUI Component Layout
 ![image](https://user-images.githubusercontent.com/61765607/167518848-b0fce3e1-af29-45a6-aa9f-9ad806199394.png)
 
 ### Decision Process and Design Details
 I decided to design the main "Lessons" page. I chose this frame because it captures the main page of lesson topics, along with the title and bottom bar options. The overall layout of this page includes a menu button, chat button, title of the application, title of the lesson, lesson buttons, and bottom app bar. For the main grid layout, I utilized 6 rows with 18px gutter and 32px margin, and 1 large column with 26px margin. To align the four bottom-bar buttons, I used 4 columns with 16px gutter and 16px margin. Lastly, for the items within the lesson-topic-buttons, I used 12 rows with 2px gutter to align the text and status bar in the vertical center of each button. Further, 24 columns with 6px gutter and 34px margin were used to align the items horizontally.
 
-### Typography Variations
+## Typography Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518952-790acf18-c193-4688-a623-462cac48e2aa.png)
 
 ### Decision Process and Design Details
@@ -28,7 +28,7 @@ For typography, I wanted a look that is fun yet professional. First, I tried usi
 | Button Label (H4) | Roboto Slab | 24px | Regular |
 | Status Percent (H6) | Roboto | 11px | Light |
 
-### Button Variations
+## Button Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
 
 ### Decision Process and Design Details
@@ -38,25 +38,25 @@ I tested three button variations: rectangle with slightly rounded corners, recta
 |---|---|---|---|
 | 322px | 104px | 8px (left, right) | 12px |
 
-### Chat Icon Variations
+## Chat Icon Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519010-68aaaeb6-8bd9-403e-be97-97d943b9881b.png)
 
 ### Decision Process and Design Details
 I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circule shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above. The icon image measures 36px by 27px.
 
-### Additional Detailing
+## Additional Detailing
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
 
 ### Decision Process and Design Details
 As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment could help improve the design's visual grouping. I decided to create a unique  shape to add movement and create explicit containment around the top section of the screen. I then utilized my original grid layout to ensure that the elements were still spaced correctly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
-### Color Variations
+## Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
 
 ### Decision Process and Design Details
 I tested several different color variations. Six are shown above. To help me decide the color schemes, I used [Adobe Color](https://color.adobe.com/create/color-wheel) for color combinations and [Visme](https://visme.co/blog/website-color-schemes/) for further inspiration. I tested Analagous, Complementary, Monochromatic, and Primary color combinations. Different shades and hues were used to color the individual components of the design. I researched more about color psychology, specifically for [color in branding](https://www.ignytebrands.com/the-psychology-of-color-in-branding/#3), and found that blue and purple hues are what I would like to use for my music learning app. Blue instills a sense of dependability, logic, serenity, and security. Whereas purple instills a sense of wisdom, imagination, and sophistication. I decided to test more variations of the monochromatic indigo design in the bottom left frame shown above.
 
-### Monochromatic Indigo Variations
+## Monochromatic Indigo Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519493-647f1fee-d9c1-429f-8f1b-9c08af61d575.png)
 
 ### Decision Process and Design Details
@@ -68,13 +68,9 @@ To further test the color variations, I used a [Preference Test](https://usabili
 | "I can't see the button labels very well" | "The menu icon is hard to see" | "I like this bluer color more" |
 | "I don't like how the buttons are darker than the background" | "I like the buttons' contrast with the background" | "The buttons really stand out here" |
 
-Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below.
+Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below (in light and dark mode).
 
-### Light Mode and Dark Mode
 ![image](https://user-images.githubusercontent.com/61765607/167519593-fb40fa33-d218-4429-9be1-bcbeaf774f8d.png)
-
-
-## Decision Process
 
 ## Impression Test
 
