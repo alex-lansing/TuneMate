@@ -81,7 +81,7 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61765607/167695143-f59d0963-2f37-4798-9689-66f6935f8ad4.png" height="350px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167695154-4236f0ae-e25a-4b99-90ca-5a89afd0bbb7.png" height="350px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167714940-505b63db-ac8e-4bfa-92f2-8a7c86e178b2.png" height="350px"/>
 </p>
 
 ### Observations
