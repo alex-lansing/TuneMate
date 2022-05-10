@@ -70,7 +70,7 @@ To further test the color variations, I used a [Preference Test](https://usabili
 
 Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below (in light and dark mode).
 
-![image](https://user-images.githubusercontent.com/61765607/167519593-fb40fa33-d218-4429-9be1-bcbeaf774f8d.png)
+![image](https://user-images.githubusercontent.com/61765607/167723109-c1c0b2ac-2cd6-4c94-9dcd-669777d73238.png)
 
 ## Impression Test
 According to Yale University's [usability site](https://usability.yale.edu/usability-testing/impression-testing), two popular ways for impression testing are picking adjectives, and the five-second test. I decided to conduct both these tests with separate samples of participants. I made the Picking-Adjectives test through Google Forms, and sent the test to 50 undergraduate students at UCLA (sent via groupme). I made the Five-Second Test through Usability Hub, and sent this test to 20 friends and family living in Orange County (sent via iMessage). I felt that my close friends/family should take the Five-Second Test rather than the Adjectives test to reduce bias. The students participating in the Adjectives test were past classmates who I have never met in person. 12 responses were submitted for the Five-Second Test, and 36 responses were submitted for the Picking-Adjectives Test. Results are below:
