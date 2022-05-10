@@ -22,11 +22,11 @@ For typography, I wanted a look that is fun yet professional. First, I tried usi
 
 | Text | Typeface | Font Size | Weight |
 |---|---|---|---|
-| H1 (main title) | Playfair Display | 54px | Bold |
-| H2 (lesson title) | Roboto Slab | 34px | Regular |
-| H3 (lesson subtitle) | Roboto | 20px | Light Italic |
-| H4 (button label) | Roboto Slab | 24px | Regular |
-| H5 (status percent) | Roboto | 11px | Light |
+| Main Title (H1) | Playfair Display | 54px | Bold |
+| Lesson Title (H2) | Roboto Slab | 34px | Regular |
+| Lesson Subtitle (H3) | Roboto | 20px | Light Italic |
+| Button Label (H4) | Roboto Slab | 24px | Regular |
+| Status Percent (H6) | Roboto | 11px | Light |
 
 ### Button Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
@@ -42,7 +42,7 @@ I tested three button variations: rectangle with slightly rounded corners, recta
 ![image](https://user-images.githubusercontent.com/61765607/167519010-68aaaeb6-8bd9-403e-be97-97d943b9881b.png)
 
 ### Decision Process and Design Details
-I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circule shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above.
+I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circule shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above. The icon image measures 36px by 27px.
 
 ### Additional Detailing
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
