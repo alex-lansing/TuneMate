@@ -65,7 +65,8 @@ To further test the color variations, I used a [Preference Test](https://usabili
 | Screen 1 | Screen 2 | Screen 3 |
 |---|---|---|
 | "The title looks a little too dark" | "It's too purple for me" | "The icons at the bottom are hard to see" |
-| "I can't see the button labels very well" | "The menu icon is hard to see" | |
+| "I can't see the button labels very well" | "The menu icon is hard to see" | "I like this bluer color more" |
+| "I don't like how the buttons are darker than the background" | "I like the buttons' contrast with the background" | "The buttons really stand out here" |
 
 Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below.
 
