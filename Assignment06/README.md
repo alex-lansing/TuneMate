@@ -48,7 +48,7 @@ I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if 
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
 
 ### Decision Process and Design Details
-As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment could help improve the design's visual grouping. I decided to create a unique  shape to add movement and create explicit containment around the top section of the screen. I then utilized my original grid layout to ensure that the elements were still spaced correctly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
+As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment could help improve the design's visual grouping. I decided to create a unique  shape to add movement and create explicit containment around the top section of the screen. I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
 ## Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
@@ -103,9 +103,12 @@ According to Yale University's [usability site](https://usability.yale.edu/usabi
 To run a color-contrast check of my final design, I utilized the Spark plugin in Figma. The test results are shown below:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167695143-f59d0963-2f37-4798-9689-66f6935f8ad4.png" height="350px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167714940-505b63db-ac8e-4bfa-92f2-8a7c86e178b2.png" height="350px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167720586-85c9b5f7-4e1a-41d8-86f8-bd2386360b6b.png" height="350px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167720643-1c4c3613-f723-48fd-a44d-878421608a44.png" height="350px"/>
+  <img src="https://user-images.githubusercontent.com/61765607/167721803-4a3c99fc-ae07-4144-ae1d-35757c1a2674.png" height="350px"/>
 </p>
+
+
 
 
 ## Design page Link
