@@ -11,10 +11,12 @@ Alexandra Lansing | DH110 | Spring 2022
 ### Design and GUI Component Layout
 ![image](https://user-images.githubusercontent.com/61765607/167518848-b0fce3e1-af29-45a6-aa9f-9ad806199394.png)
 
-
+### Decision Process and Design Details
+I decided to design the main "Lessons" page. The overall layout of this page includes a menu button, chat button, title of the application, title of the lesson, lesson buttons, and bottom app bar.
 
 ### Typography Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518952-790acf18-c193-4688-a623-462cac48e2aa.png)
+
 
 ### Button Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
