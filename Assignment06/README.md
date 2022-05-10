@@ -76,12 +76,19 @@ Overall, participants preferred Screen 3, with the minor issue that the bottom b
 According to Yale University's [usability site](https://usability.yale.edu/usability-testing/impression-testing), two popular ways for impression testing are picking adjectives, and the five-second test. I decided to conduct both these tests with separate samples of participants. I made the Picking-Adjectives test through Google Forms, and sent the test to 50 undergraduate students at UCLA (sent via groupme). I made the Five-Second Test through Usability Hub, and sent this test to 20 friends and family living in Orange County (sent via iMessage). I felt that my close friends/family should take the Five-Second Test rather than the Adjectives test to reduce bias. The students participating in the Adjectives test were past classmates who I have never met in person. 12 responses were submitted for the Five-Second Test, and 35 responses were submitted for the Picking-Adjectives Test. Results are below:
 
 ### Five-Second Test Results
+- [Test Link](https://app.usabilityhub.com/do/809e883c8d25/1156)
 - [Result Link](https://app.usabilityhub.com/tests/809e883c8d25/results/428fc872da2f)
 
 <h4 align="center"> "What is this app used for?" Response Word Cloud </h4>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61765607/167694035-5c864da8-4e7b-4fc5-81e9-46ee1e7aeff3.png" height="300px"/>
 </p>
+
+<h4 align="center"> "What words or sentences fo you recall?" Response Word Cloud </h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61765607/167694313-32293599-b874-4c59-b52b-7026118ea143.png" height="300px"/>
+</p>
+
 
 
 
