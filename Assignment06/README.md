@@ -31,11 +31,24 @@ For typography, I wanted a look that is fun yet professional. First, I tried usi
 ### Button Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
 
+### Decision Process and Design Details
+I tested three button variations: rectangle with slightly rounded corners, rectangle with one circular corner, and rectangle with fully rounded corners. While I thought that the one circular corner option was unique, I felt that it had too much movement in the design. I decided to go with the slightly rounded corner option, because the buttons appeared more stable and stationary. This stationary look is what I feel goes best with learning-topic-buttons. Details for this design are below:
+
+| Width | Height | Padding | Radius |
+|---|---|---|---|
+| 322px | 104px | 8px (left, right) | 12px |
+
 ### Chat Icon Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519010-68aaaeb6-8bd9-403e-be97-97d943b9881b.png)
 
+### Decision Process and Design Details
+I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circule shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above.
+
 ### Additional Detailing
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
+
+### Decision Process and Design Details
+As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment could help improve the design's visual grouping. I decided to create a unique  shape to add movement and create explicit containment around the top section of the screen. I then utilized my original grid layout to ensure that the elements were still spaced correctly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
 ### Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
