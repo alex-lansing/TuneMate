@@ -30,7 +30,7 @@ I decided to design the main "Lessons" page. I chose this frame because it captu
 ![image](https://user-images.githubusercontent.com/61765607/167518952-790acf18-c193-4688-a623-462cac48e2aa.png)
 
 ### Decision Process and Design Details
-For typography, I wanted a look that is fun yet professional. First, I tried using the Quicksand font because it has a young, fun appearance with the rounded corners and different boldness options. Second, I tested the Spectral font, which had a much more professional feel. After these two tests, I felt that Quicksand appeared slightly too disorganized/unprofessional, and Spectral appeared too formal. I researched more fonts through Google Fonts, and found that Roboto Slab was a happy medium of these two fonts. Using Roboto Slab for every text item on the application was a bit much, so I mixed in Roboto for subtitles, and used Playfair Display for the main app title. My final topography is shown at the very right in the image above. Details for these fonts are below.
+For typography, I wanted a look that is fun yet professional. First, I tried using the Quicksand font because it has a young, fun appearance with the rounded corners and different boldness options. Second, I tested the Spectral font, which had a much more professional look. After these two tests, I felt that Quicksand appeared slightly too disorganized/unprofessional, and Spectral appeared too formal. I researched more fonts through [Google Fonts](https://fonts.google.com/), and found that Roboto Slab was a happy medium of these two fonts. Using Roboto Slab for every text item on the application was a bit much, so I mixed in Roboto for subtitles, and used Playfair Display for the main app title. My final topography is shown at the very right in the image above. Details for these fonts are below.
 
 | Text | Typeface | Font Size | Weight |
 |---|---|---|---|
@@ -54,13 +54,13 @@ I tested three button variations: rectangle with slightly rounded corners, recta
 ![image](https://user-images.githubusercontent.com/61765607/167519010-68aaaeb6-8bd9-403e-be97-97d943b9881b.png)
 
 ### Decision Process and Design Details
-I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circule shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above. The icon image measures 36px by 27px.
+I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circle shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above. The icon image measures 36px by 27px.
 
 ## Additional Detailing
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
 
 ### Decision Process and Design Details
-As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment could help improve the design's visual grouping. I decided to create a unique  shape to add movement and create explicit containment around the top section of the screen. I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
+As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment can help improve a design's visual grouping. I decided to create a unique shape to add movement and create explicit containment around the top section of the screen. Details for the shape design are documented in the Design Summary section. I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
 ## Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
@@ -118,7 +118,7 @@ To run a color-contrast check of my final design, I utilized the Spark plugin in
 ![image](https://user-images.githubusercontent.com/61765607/167722564-e307eb48-e41f-4eea-87fa-d8f0058c7c80.png)
 
 
-## Design Summary (Documentation)
+## Design Summary
 
 ![image](https://user-images.githubusercontent.com/61765607/167738544-8148ddf1-c10d-4f2c-852c-2759c3aa5401.png)
 
