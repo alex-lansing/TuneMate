@@ -60,13 +60,13 @@ I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if 
 ![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
 
 ### Decision Process and Design Details
-As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment can help improve a design's visual grouping. I decided to create a unique shape to add movement and create explicit containment around the top section of the screen. Details for the shape design are documented in the Design Summary section. I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
+As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment can help improve a design's visual grouping. I decided to create a unique shape to add movement and create explicit containment around the top section of the screen. Details for the shape design are documented under [Design Summary](#design-summary). I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
 ## Color Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
 
 ### Decision Process and Design Details
-I tested several different color variations. Six are shown above. To help me decide the color schemes, I used [Adobe Color](https://color.adobe.com/create/color-wheel) for color combinations and [Visme](https://visme.co/blog/website-color-schemes/) for further inspiration. I tested Analagous, Complementary, Monochromatic, and Primary color combinations. Different shades and hues were used to color the individual components of the design. I researched more about color psychology, specifically for [color in branding](https://www.ignytebrands.com/the-psychology-of-color-in-branding/#3), and found that blue and purple hues are what I would like to use for my music learning app. Blue instills a sense of dependability, logic, serenity, and security. Whereas purple instills a sense of wisdom, imagination, and sophistication. I decided to test more variations of the monochromatic indigo design in the bottom left frame shown above.
+I tested several different color variations. Six are shown above. To help me decide color schemes, I used [Adobe Color](https://color.adobe.com/create/color-wheel) for color combinations and [Visme](https://visme.co/blog/website-color-schemes/) for further inspiration. I tested Analagous, Complementary, Monochromatic, and Primary color combinations. Different shades and hues were used to color the individual components of the design. I researched more about color psychology, specifically for [color in branding](https://www.ignytebrands.com/the-psychology-of-color-in-branding/#3), and found that blue and purple hues are what I would like to use for my music learning app. Blue instills a sense of dependability, logic, serenity, and security. Whereas purple instills a sense of wisdom, imagination, and sophistication. I decided to test more variations of the monochromatic indigo design in the bottom left frame shown above.
 
 ## Monochromatic Indigo Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519493-647f1fee-d9c1-429f-8f1b-9c08af61d575.png)
@@ -118,7 +118,7 @@ To run a color-contrast check of my final design, I utilized the Spark plugin in
 ![image](https://user-images.githubusercontent.com/61765607/167722564-e307eb48-e41f-4eea-87fa-d8f0058c7c80.png)
 
 
-## Design Summary
+# Design Summary
 
 ![image](https://user-images.githubusercontent.com/61765607/167738544-8148ddf1-c10d-4f2c-852c-2759c3aa5401.png)
 
