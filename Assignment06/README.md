@@ -6,11 +6,13 @@ Alexandra Lansing | DH110 | Spring 2022
 
 This part of my project is meant to explore potential designs of my music learning application. The purpose of UX Interface Design is to convert low-fidelity wireframes into digitized designs that will later be transformed into interactive prototypes and a final application. My design process was executed through Figma. I utilized the iPhone 13 / 13 Pro screen size to frame my overall app design. During my process, I tested different typography, shape, and color variations for the app's main "Lessons" page. After completion of the design, I ran two impression tests to further assist my process. An accessibility test was also ran to check for proper color contrast.
 
-
-- [Initial Wireframe Examples]()
 - [Figma Designs and Digitized Wireframes](https://www.figma.com/file/U6vsPQLgZCa5sggQXV0fFn/Design-System%3A-TuneMate?node-id=0%3A1)
 
-The "Lessons" page I will design:
+
+#### Initial Wireframe of the "Lessons" Page designed in this current Project:
+<p>
+  <img src="https://user-images.githubusercontent.com/61765607/167749522-57dd62ac-2007-4a16-8736-d5d45453018e.png" height="350px"/>
+</p>
 
 
 
