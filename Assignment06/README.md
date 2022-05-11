@@ -6,7 +6,7 @@ Alexandra Lansing | DH110 | Spring 2022
 
 This part of my project is meant to explore potential designs of my music learning application. The purpose of UX Interface Design is to convert low-fidelity wireframes into digitized designs that will later be transformed into interactive prototypes and a final application. My design process was executed through Figma. I utilized the iPhone 13 / 13 Pro screen size to frame my overall app design. During my process, I tested different typography, shape, and color variations for the app's main "Lessons" page. After completion of the design, I ran two impression tests to further assist my process. An accessibility test was also ran to check for proper color contrast.
 
-- [Figma Designs and Digitized Wireframes](https://www.figma.com/file/U6vsPQLgZCa5sggQXV0fFn/Design-System%3A-TuneMate?node-id=0%3A1)
+- [Figma Full Design Page](https://www.figma.com/file/U6vsPQLgZCa5sggQXV0fFn/Design-System%3A-TuneMate?node-id=0%3A1)
 
 
 #### Initial Wireframe of the "Lessons" Page designed in this current Project:
@@ -84,7 +84,7 @@ Overall, participants preferred Screen 3, with the minor issue that the bottom b
 ![image](https://user-images.githubusercontent.com/61765607/167723109-c1c0b2ac-2cd6-4c94-9dcd-669777d73238.png)
 
 ## Impression Test
-According to Yale University's [usability site](https://usability.yale.edu/usability-testing/impression-testing), two popular ways for impression testing are picking adjectives, and the five-second test. I decided to conduct both these tests with separate samples of participants. I made the Picking-Adjectives test through Google Forms, and sent the test to 50 undergraduate students at UCLA (sent via groupme). I made the Five-Second Test through Usability Hub, and sent this test to 20 friends and family living in Orange County (sent via iMessage). I felt that my close friends/family should take the Five-Second Test rather than the Adjectives test to reduce bias. The students participating in the Adjectives test were past classmates who I have never met in person. 12 responses were submitted for the Five-Second Test, and 36 responses were submitted for the Picking-Adjectives Test. Results are below:
+According to Yale University's [usability site](https://usability.yale.edu/usability-testing/impression-testing), two popular ways for impression testing are picking adjectives, and the five-second test. I decided to conduct both these tests with separate samples of participants. I made the Picking-Adjectives test through Google Forms, and sent the test to 50 undergraduate students at UCLA (sent via groupme). I made the Five-Second Test through Usability Hub, and sent this test to 20 friends and family living in Orange County (sent via iMessage). I felt that my close friends/family should take the Five-Second Test rather than the Adjectives test to reduce bias. The students participating in the Adjectives test were past classmates who I have never met in person. 13 responses were submitted for the Five-Second Test, and 36 responses were submitted for the Picking-Adjectives Test. Results are below:
 
 ### Five-Second Test Results
 - [Test Link](https://app.usabilityhub.com/do/809e883c8d25/1156)
