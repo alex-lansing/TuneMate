@@ -4,7 +4,8 @@ Alexandra Lansing | DH110 | Spring 2022
 
 ## Project Description
 
-This part of my music learning application project blah
+This part of my music learning application project 
+
 [Figma File](https://www.figma.com/file/U6vsPQLgZCa5sggQXV0fFn/Design-System%3A-TuneMate?node-id=0%3A1)
 
 
