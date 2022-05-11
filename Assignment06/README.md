@@ -10,7 +10,7 @@ This part of my project aims to explore potential designs of my music learning a
   - includes test screens, design system info, and digitized wireflow
 
 
-#### Initial Wireframe of the "Lessons" Page designed in this current Project:
+#### Initial Wireframe of the "Lessons" Page that I will design:
 <p>
   <img src="https://user-images.githubusercontent.com/61765607/167749522-57dd62ac-2007-4a16-8736-d5d45453018e.png" height="350px"/>
 </p>
