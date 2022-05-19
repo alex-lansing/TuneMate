@@ -24,6 +24,7 @@ The following prototype illustrates 7 main tasks:
 </a>
 
 ## Wireflow
+![image](https://user-images.githubusercontent.com/61765607/169180567-50b7e33d-6e61-4392-9bac-89d639b1df4e.png)
 
 
 ## Cognitive Walkthrough
