@@ -17,8 +17,13 @@ The following prototype illustrates 7 main tasks:
 
 ## Interactive Prototype
 
+   - [Prototype Link](https://www.figma.com/proto/mTNDVQ6mx5xMnPFgbBonm6/Interactive-Prototype?node-id=2%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A99)
 
+<a href="https://www.figma.com/proto/mTNDVQ6mx5xMnPFgbBonm6/Interactive-Prototype?node-id=2%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A99">
+  <img src="https://user-images.githubusercontent.com/61765607/169178796-ed5b3065-06f8-423b-a935-38b375ee093c.png" height="350px"/>
+</a>
 
 ## Wireflow
+
 
 ## Cognitive Walkthrough
