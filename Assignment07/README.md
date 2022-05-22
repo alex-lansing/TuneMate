@@ -41,9 +41,37 @@ After completing the first draft of my prototype, I recieved feedback from other
 My peers gave valuable feedback on the TuneMate prototype. The comment that stood out most was that a "next" button should be added to lesson activity pages. I definitely plan to add this feature as I continue to develop my prototype. If I were to conduct a cognitive walkthrough again, I would survey more individuals, and ask more in-depth questions. This in-class cognitive walkthrough did not provide as much insight as I would have hoped due to limited time and participants. Thus I decided to conduct a Usability Test for deeper insight.
 
 ## Usability Testing
-https://forms.gle/jWLUvMSqHgKdnAZbA
 
-https://youtu.be/2LO7HfHfpJg?t=0
+I conducted a Usability Test using the Figma interactive prototype and Google Forms. This study was conducted in a quiet room of the participant's apartment located in Los Angeles, CA. The session was recorded via Zoom on an iMac Pro. The video recording can be viewed at the link below.
+
+### Survey Material
+- Introduction
+- Informed Consent Form
+- Background Questions
+- Pre-Test Questionnaire
+- Tasks (4)
+- Post-Test Questionnaire
+- SUS Questionnaire
+- Production Satisfaction Card
+- Demographic Questions
+
+### User Tasks
+1. Sign up, Complete placement quiz, Begin a lesson
+2. Navigate to TuneMate Connect, Join a group, Create a post
+3. Navigate to another user profile, Check their achievements, Access direct messages, Check message inbox
+4. Navigate to settings, Sign out
+
+### Links
+
+- [UT Survey](https://forms.gle/jWLUvMSqHgKdnAZbA)
+
+- [UT Video Recording](https://youtu.be/2LO7HfHfpJg?t=0)
+
+
+<a href="https://youtu.be/2LO7HfHfpJg?t=0">
+  <img src="https://user-images.githubusercontent.com/61765607/169721071-5da1d7b4-ba98-4c2c-9c20-e6a9972f637b.png" height="350px"/>
+</a>
+
 
 ### Observations
 | Feature | Observations | Improvement Ideas |
