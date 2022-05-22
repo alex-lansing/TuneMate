@@ -28,6 +28,16 @@ The following prototype illustrates 7 main tasks:
 
 
 ## Cognitive Walkthrough
+After completing the first draft of my prototype, I recieved feedback from other UX students in the DH110 course. Feedback about my prototype was recorded through Google Forms, and can be seen [here](https://docs.google.com/document/d/1De325Z9QuXnAkKbLBi8ejk8dKOU9v8-tDfxbD_bGsUg/edit?usp=sharing).
+
+### Findings
+| Feature | Feedback | Reflection |
+|---|---|---|
+| Color Scheme | "I like the blue theme, it makes it feel academic but still fun." | This feedback was encouraging because the blue color scheme I chose was meant to make the app look academic and fun. |
+| Lesson Activity | "A 'next' button after the lesson would be helpful." | This is an important feature to consider when more lesson content is developed. Users should have a next button (towards the bottom right of the page) to move through lesson content.  |
+| Lesson Menu | "I'm used to all lessons being on one page." | This feedback is good to note. However, the layout of the application would be much more complicated/confusing if users were required to scroll to access all lesson topics. Perhaps the menu bar could be organized in a way that is more clear to users. |
+| Overall Design | "Looks legit and professional." | This was an encouraging comment because I hoped for the design to present a professional aesthetic. |
+
 
 ## Usability Testing
 https://forms.gle/jWLUvMSqHgKdnAZbA
