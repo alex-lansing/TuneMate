@@ -45,3 +45,11 @@ https://forms.gle/jWLUvMSqHgKdnAZbA
 
 https://youtu.be/2LO7HfHfpJg?t=0
 
+### Observations
+| Feature | Observations | Improvement Ideas |
+|---|---|---|
+| Quiz Choices | User noted they wanted to have an "All of the Above" choice for the learning-interest question. 
+| Tunemate Connect |
+| Settings |
+| Chat Icon |
+| Decorative Details |
