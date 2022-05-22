@@ -38,7 +38,7 @@ After completing the first draft of my prototype, I recieved feedback from other
 | Lesson Menu | "I'm used to all lessons being on one page." | This feedback is good to note. However, the layout of the application would be much more complicated/confusing if users were required to scroll to access all lesson topics. Perhaps the menu bar could be organized in a way that is more clear to users. |
 | Overall Design | "Looks legit and professional." | This was an encouraging comment because I hoped for the design to present a professional aesthetic. |
 
-My peers gave valuable feedback on the TuneMate prototype. The comment that stood out most was that a "next" button should be added to lesson activity pages. I definitely plan to add this feature as I continue to develop my prototype. If I were to conduct a cognitive walkthrough again, I would survey more individuals, and ask more in-depth questions. This in-class cognitive walkthrough did not provide as much insight as I would have hoped, so I decided to conduct a Usability Test for deeper insight.
+My peers gave valuable feedback on the TuneMate prototype. The comment that stood out most was that a "next" button should be added to lesson activity pages. I definitely plan to add this feature as I continue to develop my prototype. If I were to conduct a cognitive walkthrough again, I would survey more individuals, and ask more in-depth questions. This in-class cognitive walkthrough did not provide as much insight as I would have hoped due to limited time and participants. Thus I decided to conduct a Usability Test for deeper insight.
 
 ## Usability Testing
 https://forms.gle/jWLUvMSqHgKdnAZbA
