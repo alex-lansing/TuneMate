@@ -48,8 +48,8 @@ https://youtu.be/2LO7HfHfpJg?t=0
 ### Observations
 | Feature | Observations | Improvement Ideas |
 |---|---|---|
-| Quiz Choices | User noted they wanted to have an "All of the Above" choice for the learning-interest question. 
-| Tunemate Connect |
-| Settings |
-| Chat Icon |
-| Decorative Details |
+| Quiz Choices | User noted the desire to have an "All of the Above" choice for the learning-interest question. | Make these selections radio buttons so users can select multiple interest options. |
+| TuneMate Connect | User tried to find TuneMate Connect under the menu tab but could only access through the bottom-bar icon. | Create access to TuneMate Connect in the menu. |
+| Settings | User tried finding settings under the menu tab but could only access through the profile page. | Create access to settings in the menu. |
+| Chat Icon | User was confused if the chat icons had the same functionality, because they had different designs on different pages. | Make chat icon design consistent on each page of the application. |
+| Decorative Details | User noted that the top background decorations were slightly unappealing because they were different across the app pages. | Reduce the variations of background designs. |
