@@ -43,5 +43,5 @@ My peers gave valuable feedback on the TuneMate prototype. The comment that stoo
 ## Usability Testing
 https://forms.gle/jWLUvMSqHgKdnAZbA
 
-https://youtu.be/2LO7HfHfpJg
+https://youtu.be/2LO7HfHfpJg?t=0
 
