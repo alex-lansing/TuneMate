@@ -81,3 +81,5 @@ I conducted a Usability Test using the Figma interactive prototype and Google Fo
 | Settings | User tried finding settings under the menu tab but could only access through the profile page. | Create access to settings in the menu. |
 | Chat Icon | User was confused if the chat icons had the same functionality, because they had different designs on different pages. | Make chat icon design consistent on each page of the application. |
 | Decorative Details | User noted that the top background decorations were slightly unappealing because they were different across the app pages. | Reduce the variations of background designs. |
+
+Overall, the Usability Test provided valuable feedback for my prototype design. It was encouraging to see that the user was able to interact with the prototype smoothly, but many changes are still needed for a satisfactory design. The most urgent changes to be made are noted above. I plan to integrate these improvement ideas as I continue to refine my prototype.
