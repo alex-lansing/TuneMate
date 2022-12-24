@@ -1,6 +1,4 @@
-# TuneMate
-
-## High-Fidelity Interactive Prototype
+# TuneMate: High-Fidelity Interactive Prototype
 
 ## Project Description
 This portion of my project is creating a working prototype of my music-learning app design. The purpose of high-fidelity prototyping is to demonstrate the graphic design and interactivity of an application. I used Figma to create my prototype while following my prior-created wireframes and wireflow. 
