@@ -1,6 +1,5 @@
-# Interface Design
-## Assignment 6: UX Interface Design with Figma
-Alexandra Lansing | DH110 | Spring 2022
+# TuneMate
+## Interface Design
 
 ## Project Description
 
