@@ -1,5 +1,4 @@
-# TuneMate
-## Personas, Journey Maps, Scenarios
+# TuneMate: Personas, Journey Maps, Scenarios
 
 ## Purpose of UX Storytelling
 UX storytelling allows creators and designers to consider the perspectives of different users. Storytelling highlights the context behind why and how a user interacts with a product. This is important for designing an interface and for usability testing because it can bring forward potential issues of a product, and inspires improvements that appeal to a broader span of users.
