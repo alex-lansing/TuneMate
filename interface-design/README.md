@@ -1,5 +1,4 @@
-# TuneMate
-## Interface Design
+# TuneMate: Interface Design
 
 ## Project Description
 
