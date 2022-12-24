@@ -1,5 +1,4 @@
-# TuneMate
-## Qualitative User Research (Contextual Inquiry)
+# TuneMate: Qualitative User Research (Contextual Inquiry)
 
 ## Research Goal and Requirements
 
