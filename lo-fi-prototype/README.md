@@ -1,6 +1,4 @@
-# TuneMate
-
-## Low-Fidelity Prototype and User Testing
+# TuneMate: Low-Fidelity Prototype and User Testing
 
 ## Project Description
 This project aims to improve the music learning process through a simple application. Based on my prior Usability Testing, Qualitatative User Research, and User Scenarios, I have made note of features that users need and desire in a digital music-learning platform. During the Usability Testing, I investigated the features of a pre-existing application called [Learning Music](https://learningmusic.ableton.com/) by Abelton.com. In this study, I found that my subject was satisfied by the simplicity of the learning activities. The buttons were clearly indicated and there were clear directions and further help provided for each activity. The main issue found in this study was that the menu bar was difficult to find at first, because the menu icon/placement was not familiar to the user. In my Qualitative Research study, I observed how a subject utilizes their own digital tools to assist in music learning. Through my observations, I found that the user desires an application that provides a broad set of learning material that is tailored to his prior experience. The main issue that this subject noted was that he has difficulty finding other musicians nearby to practice with.
