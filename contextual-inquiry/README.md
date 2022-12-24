@@ -1,6 +1,5 @@
 # TuneMate
 ## Qualitative User Research (Contextual Inquiry)
-Alexandra Lansing
 
 ## Research Goal and Requirements
 
