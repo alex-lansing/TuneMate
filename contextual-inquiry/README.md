@@ -1,6 +1,6 @@
-# Qualitative User Research (Contextual Inquiry)
-## Assignment 3: Learning from People in Context
-Alexandra Lansing | DH110 | Spring 2022
+# TuneMate
+## Qualitative User Research (Contextual Inquiry)
+Alexandra Lansing
 
 ## Research Goal and Requirements
 
