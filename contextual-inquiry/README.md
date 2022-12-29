@@ -90,7 +90,7 @@ The current limitation of music learning platforms is the ability for musicians 
 
 ## Observations and Reflection
 Below are noteable responses that may provide valuable insight for future research or design strategies:
-| Time Mark, Topic| User Commentary | Observations |
+| Time Mark | User Commentary | Observations |
 |---|---|---|
 | 10:53, I-Real-Pro App | "It just eliminates me having to bring large stacks of music sheets to do a gig or something I'm gonna play at. So I just bring my phone and I know I can have every song I ever need." | Beneficial for users to have condensed, portable music information. Reducing the amount of books/paper/tools needed for music learning and music playing is desirable. |
 | 13:39, I-Real-Pro App| "If I could add something to it, it doesn't tell me the melody or if there's an actual expected baseline or pattern behind the melody. It just has the chords." | User is searching for further information when using the music learning app. It appears that the mobile app only provides a limited amount of information about chords, and does not provide an option for further information or help with songs. User a broad set of options, information, and freedom when using music learning applications. |
